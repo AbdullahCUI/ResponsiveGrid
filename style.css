@@ -176,6 +176,10 @@ body {
 }
 
 .grid-item-eight {
+	grid-column: 2/3;
+}
+
+.grid-item-nine {
 	grid-column: 3/4;
 }
 
